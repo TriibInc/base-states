@@ -8,5 +8,4 @@ base:
     - supervisor
     - redis
     - memcached
-    - mysite
 
